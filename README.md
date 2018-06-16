@@ -1,4 +1,4 @@
-# Начальный курс веб-разработки
+# Начальный курс веб-разработки [![Build Status](https://travis-ci.com/Maximumstart-initial-course/zhenya-i2-002.svg?branch=master)](https://travis-ci.com/Maximumstart-initial-course/zhenya-i2-002)
 
 * Студент:  `Евгений Крючков`.
 * Ментор: `Дима Тытарь`.
